@@ -3,7 +3,7 @@
 I'm currently a student at **Florida Atlantic University High School**, with an intended major in **Biochemistry**. I'm passionate about both science and technology, and I use this space to document my coding journey as I explore new skills and projects.
 
 ## Coding Goals
-- Secure a research position in the field of biochemistry
+- Secure a research position in the field of biochemistry and involving CS
 - Build impactful and meaningful websites or apps
 - Continue coding as a hobby and a passion while making it a useful tool in my academic and career pursuits
 
